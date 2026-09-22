@@ -57,6 +57,7 @@ A production-ready conversational AI application built with **LangChain (LCEL)**
 ┌──────────────────────────────┐
 │  Formatted Streamlit Output  │ (Answer + Reasoning Logic + Token Metric Update)
 └──────────────────────────────┘
+```
 📁 Project Structure
 Plaintext
 context_qa_assistant/
