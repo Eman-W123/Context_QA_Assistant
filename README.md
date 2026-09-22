@@ -109,3 +109,7 @@ GOOGLE_API_KEY="your_gemini_api_key_here"
 streamlit run app.py
 
 Application Screenshots
+![Application screenshot 1](screenshots/Screenshot%202026-09-22%20213812.png)
+![Application screenshot 2](screenshots/Screenshot%202026-09-22%20213349.png)
+![Application screenshot 3](screenshots/Screenshot%202026-09-22%20213335.png)
+![Application screenshot 4](screenshots/Screenshot%202026-09-22%20211223.png)
